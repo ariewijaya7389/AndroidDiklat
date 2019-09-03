@@ -3,4 +3,9 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="greenBox">#39F105</color>
+    <color name="yellowBox">#F3CC09</color>
+    <color name="redBox">#C00246</color>
+    <color name="textClicked">#0C0A0A</color>
 </resources>
